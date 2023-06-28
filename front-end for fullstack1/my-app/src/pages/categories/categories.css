@@ -1,0 +1,18 @@
+.delete{
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.edit{
+    color: black;
+}
+.productitle{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
